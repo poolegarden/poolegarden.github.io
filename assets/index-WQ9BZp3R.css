@@ -1,0 +1,1 @@
+*{margin:0;padding:0;box-sizing:border-box;font-family:Montserrat,sans-serif}:root{--dark-blue: #141a2b;--teal: #27b7c0;--green: #64bc46;--white: #ffffff}.header{padding:1rem 0}.logo-container{display:flex;align-items:center}.brand-name{color:var(--white);font-size:3.4rem;font-weight:700;margin-left:1rem}.logo:hover,.brand-name:hover{transform:scale(1.05)}
